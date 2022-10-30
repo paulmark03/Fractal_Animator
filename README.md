@@ -12,5 +12,15 @@
 * size of acute angles;
 * number of iterations. (0 being infinitely many).
 
+# Fractals
+#### Pythagorean Tree
+![](https://github.com/paulmark03/FractalGenerator/blob/main/Assets/Screenshot%202022-10-30%20154418.png)
+
+#### Mandelbrot Set
+![](https://github.com/paulmark03/FractalGenerator/blob/main/Assets/Screenshot%202022-10-30%20154204.png)
+
+#### Phoenix Set
+![](https://github.com/paulmark03/FractalGenerator/blob/main/Assets/Screenshot%202022-10-30%20154330.png)
+
 # Demo
 ![](https://github.com/paulmark03/FractalGenerator/blob/main/Assets/2022-10-30%2015-54-47.gif)
