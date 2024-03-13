@@ -19,7 +19,7 @@ public class MandelbrotSet extends JPanel {
         
     }
 
-    int iterate(double x, double y) {
+    public int iterate(double x, double y) {
 
         double zReal = x;
         double zImag = y;
